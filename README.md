@@ -1,5 +1,7 @@
-Appcelerator
+Appcelerator [DEPRECATED]
 ============
+
+# THIS PROJECT IS NO LONGER IN ACTIVE DEVELOPMENT
 
 Libraries for use with Appcelerator
 
